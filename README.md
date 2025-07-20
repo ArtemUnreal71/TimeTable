@@ -1,2 +1,2 @@
 # TimeTable
-A Windows Forms Timetable Projcet
+A Off School Windows Forms Timetable Project
