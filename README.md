@@ -37,4 +37,4 @@ Aplikace umožňuje:
 Cílem bylo samostatně:
 - Procvičit práci s `Windows Forms`
 - Naučit se využívat `DataGridView` v praxi
-- Osvojit si práci s časovačem a souborovým uložištěm
+- Zopakovat si a prohloubit práci s časovačem a souborovým uložištěm
