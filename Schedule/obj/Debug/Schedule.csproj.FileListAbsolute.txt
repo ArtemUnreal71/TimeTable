@@ -40,3 +40,14 @@ D:\Visual Studio\Bigger Projects\Schedule\obj\Debug\Schedule.application
 D:\Visual Studio\Bigger Projects\Schedule\obj\Debug\Schedule.csproj.Up2Date
 D:\Visual Studio\Bigger Projects\Schedule\obj\Debug\Schedule.exe
 D:\Visual Studio\Bigger Projects\Schedule\obj\Debug\Schedule.pdb
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.csproj.AssemblyReference.cache
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.ConfirmationForm.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.CountdownForm.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.DayOverviewForm.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.CalendarForm.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.Properties.Resources.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.TaskOverviewForm.resources
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.csproj.GenerateResource.cache
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.csproj.CoreCompileInputs.cache
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.exe
+D:\Programming\GitHub\Scheduler\Schedule\obj\Debug\Schedule.pdb
